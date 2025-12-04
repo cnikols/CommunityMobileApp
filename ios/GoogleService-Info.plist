@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>265328939420-7caj730c495qkmjo3tl6rd6kvratbjk1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.265328939420-7caj730c495qkmjo3tl6rd6kvratbjk1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>265328939420-1b10e3hojlc8s1ktud0c77s16rd1q4kv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCpYvMNE-f9vXZgh8B7MDVFmvRzMabr8Kc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>265328939420</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.geitoniaapp</string>
+	<key>PROJECT_ID</key>
+	<string>geitonia-insta</string>
+	<key>STORAGE_BUCKET</key>
+	<string>geitonia-insta.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:265328939420:ios:78247376acf567630ab859</string>
+	<key>DATABASE_URL</key>
+	<string>https://geitonia-insta.firebaseio.com</string>
+</dict>
+</plist>

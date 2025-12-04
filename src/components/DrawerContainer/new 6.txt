@@ -1,0 +1,9 @@
+απο feeditem
+
+<TNTouchableIcon
+          onPress={onMorePress}
+          imageStyle={styles.moreIcon}
+          containerStyle={styles.moreIconContainer}
+          iconSource={AppStyles.iconSet.more}
+          appStyles={AppStyles}
+        />
